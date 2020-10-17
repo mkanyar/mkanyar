@@ -25,7 +25,7 @@ h1 {
   animation: 4s cubic-bezier(.5, 0, .5, 0.2) 0.5s infinite bounce;
 }
       </style>
-      <h1>Hello world</h1>
+      <h1>Social distancing</h1>
     </div>
   </foreignObject>
 </svg>
