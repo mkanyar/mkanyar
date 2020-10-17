@@ -25,7 +25,7 @@ h1 {
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
       </style>
-      <h1>Hello my name is Mike Stephane :smiley:</h1>
+      <h1>Hello world &#9995 my name is Mike</h1>
     </div>
   </foreignObject>
 </svg>
