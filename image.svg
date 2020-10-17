@@ -25,19 +25,7 @@ h1 {
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
       </style>
-      <h1>My name is Mike Stephane and I am a fervent Front End Engineer :computer:
-These are some languages/framework I usually play with:
-Html5 <i class="devicon-amazonwebservices-original"></i>
-CSS3
-Javascript
-React
-NextJs
-Java
-NodeJs
-Express
-MySQL
-Python
-LitElement</h1>
+      <h1>Hello my name is Mike Stephane :smiley:</h1>
     </div>
   </foreignObject>
 </svg>
