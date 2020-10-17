@@ -1,5 +1,5 @@
 ![introduction](./image.svg) <br/>
- My name is Mike Stephane :smiley: , I am a fervent Front End Engineer.
+ <center>My name is Mike Stephane :smiley: , I am a fervent Front End Engineer.</center>
 I usually play with:
 * Html5 :100:
 * CSS3  :fire:
