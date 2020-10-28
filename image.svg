@@ -22,7 +22,7 @@ h1 {
   font: 400 16px/1.5 Helvetica ,Arial ,sans-serif;
   color: rgb(52, 73, 94);
   transform-origin: bottom;
-  animation: 4s cubic-bezier(.5, 0, .5, 0.2) 0.5s infinite bounce;
+  animation: 4s cubic-bezier(.5, 0, .5, 0.2) 1s infinite bounce;
 }
       </style>
       <h1>Social distancing</h1>
