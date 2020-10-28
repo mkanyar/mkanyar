@@ -8,15 +8,11 @@ I usually play with:
 React :cookie:
 Express :heavy_check_mark:
 Nodejs :fire:
-<div>
- 
-
- 
- Java :pizza:
+Java :pizza:
 MySQL :construction_worker:
 Python :calendar:
  
-</div>
+
 
 
 
