@@ -4,13 +4,14 @@ I usually play with:
  CSS3  :fire:
  Javascript :candy:
 React :cookie:
- Java :pizza:
 Express :heavy_check_mark:
 Nodejs :fire:
+ ![introduction](./image.svg) 
+ Java :pizza:
 MySQL :construction_worker:
 Python :calendar:
  
- ![introduction](./image.svg) 
+
 
 
 
