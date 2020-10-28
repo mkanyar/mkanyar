@@ -6,7 +6,7 @@ I usually play with:
 React :cookie:
 Express :heavy_check_mark:
 Nodejs :fire:
-
+<div>
  
 ![introduction](./image.svg) 
  
@@ -14,7 +14,7 @@ Nodejs :fire:
 MySQL :construction_worker:
 Python :calendar:
  
-
+</div>
 
 
 
