@@ -1,3 +1,5 @@
+
+  ![introduction](./image.svg) 
   <center>My name is Mike Stephane :smiley: , I am a fervent Front End Engineer.</center>
 I usually play with:
  Html5 :100:
@@ -8,7 +10,7 @@ Express :heavy_check_mark:
 Nodejs :fire:
 <div>
  
-![introduction](./image.svg) 
+
  
  Java :pizza:
 MySQL :construction_worker:
