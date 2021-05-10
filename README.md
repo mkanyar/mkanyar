@@ -6,11 +6,11 @@ I usually play with:
  CSS3  :fire:
  Javascript :candy:
 React :cookie:
-Express :heavy_check_mark:
-Nodejs :fire:
-Java :pizza:
-MySQL :construction_worker:
-Python :calendar:
+Typescript :heavy_check_mark:
+NextJs :fire:
+Jest :pizza:
+React-Redux :construction_worker:
+Cypress :calendar:
  
 
 
