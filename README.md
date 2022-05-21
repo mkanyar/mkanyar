@@ -1,6 +1,6 @@
 
   ![introduction](./image.svg) 
-  <center>My name is Mike Stephane <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="16px"></span></center> I am a fervent Front End Engineer.
+  <center>My name is Mike Stephane <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="16px"></span></center> I am a fervent Software Developer.
 I usually play with:
  Html5 <span><img src="https://github.com/mkanyar/mkanyar/blob/main/html.svg" width="16px"></span>
   CSS3  <span><img src="https://github.com/mkanyar/mkanyar/blob/main/css.svg" width="23px"></span>
