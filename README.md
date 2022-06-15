@@ -8,10 +8,10 @@ I usually play with:
  React <span><img src="https://github.com/mkanyar/mkanyar/blob/main/react.svg" width="16px"></span>
  Typescript <span><img src="https://github.com/mkanyar/mkanyar/blob/main/typescript.svg" width="16px"></span>
  NextJs <span><img src="https://github.com/mkanyar/mkanyar/blob/main/nextjs-3.svg" width="20px"></span>
- React-Redux <span><img src="https://github.com/mkanyar/mkanyar/blob/main/redux.svg" width="16px"></span>
- NodeJs <span><img src="https://github.com/mkanyar/mkanyar/blob/main/redux.svg" width="16px"></span>
- Express <span><img src="https://github.com/mkanyar/mkanyar/blob/main/redux.svg" width="16px"></span>
- GraphQL <span><img src="https://github.com/mkanyar/mkanyar/blob/main/redux.svg" width="16px"></span>
+ Redux <span><img src="https://github.com/mkanyar/mkanyar/blob/main/redux.svg" width="16px"></span>
+ NodeJs <span><img src="https://github.com/mkanyar/mkanyar/blob/main/Node.js_logo.svg" width="24"></span>
+ Express <span><img src="https://github.com/mkanyar/mkanyar/blob/main/expressjs-ar21.svg" width="20"></span>
+ GraphQL <span><img src="https://github.com/mkanyar/mkanyar/blob/main/GraphQL_Logo.svg" width="16px"></span>
 
  
 
