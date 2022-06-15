@@ -9,6 +9,9 @@ I usually play with:
  Typescript <span><img src="https://github.com/mkanyar/mkanyar/blob/main/typescript.svg" width="16px"></span>
  NextJs <span><img src="https://github.com/mkanyar/mkanyar/blob/main/nextjs-3.svg" width="20px"></span>
  React-Redux <span><img src="https://github.com/mkanyar/mkanyar/blob/main/redux.svg" width="16px"></span>
+ NodeJs <span><img src="https://github.com/mkanyar/mkanyar/blob/main/redux.svg" width="16px"></span>
+ Express <span><img src="https://github.com/mkanyar/mkanyar/blob/main/redux.svg" width="16px"></span>
+ GraphQL <span><img src="https://github.com/mkanyar/mkanyar/blob/main/redux.svg" width="16px"></span>
 
  
 
