@@ -4,7 +4,7 @@
 <h3> I usually play with 
  Html5 <span style="width=20%;aspect-ratio:3/2; object-fit:contain; mix-blend-mode:burn"><img src="https://github.com/mkanyar/mkanyar/blob/main/html.svg" width="12"></span>
   CSS3  <span style="width=20%;aspect-ratio:3/2; object-fit:contain; mix-blend-mode:burn"><img src="https://github.com/mkanyar/mkanyar/blob/main/css.svg" width="18"></span>
-  Javascript <span style="width=20%;aspect-ratio:3/2; object-fit:contain; mix-blend-mode:burn"><img src="https://github.com/mkanyar/mkanyar/blob/main/javascript.svg" width="18"></span>
+  Javascript<div style="width=20%;aspect-ratio:3/2; object-fit:contain; mix-blend-mode:burn"> <span ><img src="https://github.com/mkanyar/mkanyar/blob/main/javascript.svg" width="18"></span></div>
  React <span style="width=20%;aspect-ratio:3/2; object-fit:contain; mix-blend-mode:burn"><img src="https://github.com/mkanyar/mkanyar/blob/main/react.svg" width="18"></span>
  Typescript <span style="width=20%;aspect-ratio:3/2; object-fit:contain; mix-blend-mode:burn"><img src="https://github.com/mkanyar/mkanyar/blob/main/typescript.svg" width="18"></span>
  NextJs <span style="width=20%;aspect-ratio:3/2; object-fit:contain; mix-blend-mode:burn"><img src="https://github.com/mkanyar/mkanyar/blob/main/nextjs-3.svg" width="24"></span>
